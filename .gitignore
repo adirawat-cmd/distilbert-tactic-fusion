@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+bilstm_env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+# data/
+# dataset/
+# datasets/
+# *.csv
+# *.xlsx
+# *.json
+
+# Model checkpoints / weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt/
+
+# Training outputs
+outputs/
+checkpoints/
+runs/
+logs/
+wandb/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large archives
+*.zip
+*.tar
+*.gz
