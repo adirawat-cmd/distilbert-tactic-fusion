@@ -1,0 +1,118 @@
+﻿Experiment file,Experiment,Metric,Value,Source
+safeconv_baseline_test_results.json,Baseline Test Results,Accuracy,0.8262195121951219,C:\Users\Adi\project_safeconvo\safeconv_baseline_test_results.json
+safeconv_baseline_test_results.json,Baseline Test Results,Decision threshold,0.43,C:\Users\Adi\project_safeconvo\safeconv_baseline_test_results.json
+safeconv_baseline_test_results.json,Baseline Test Results,F1-score,0.8201892744479495,C:\Users\Adi\project_safeconvo\safeconv_baseline_test_results.json
+safeconv_baseline_test_results.json,Baseline Test Results,Precision,0.7386363636363636,C:\Users\Adi\project_safeconvo\safeconv_baseline_test_results.json
+safeconv_baseline_test_results.json,Baseline Test Results,Recall,0.9219858156028369,C:\Users\Adi\project_safeconvo\safeconv_baseline_test_results.json
+safeconv_baseline_threshold.json,Baseline Threshold,Accuracy,0.836890243902439,C:\Users\Adi\project_safeconvo\safeconv_baseline_threshold.json
+safeconv_baseline_threshold.json,Baseline Threshold,Decision threshold,0.5,C:\Users\Adi\project_safeconvo\safeconv_baseline_threshold.json
+safeconv_baseline_threshold.json,Baseline Threshold,F1-score,0.827140549273021,C:\Users\Adi\project_safeconvo\safeconv_baseline_threshold.json
+safeconv_baseline_threshold.json,Baseline Threshold,Precision,0.7596439169139466,C:\Users\Adi\project_safeconvo\safeconv_baseline_threshold.json
+safeconv_baseline_threshold.json,Baseline Threshold,Recall,0.9078014184397163,C:\Users\Adi\project_safeconvo\safeconv_baseline_threshold.json
+safeconv_baseline_validation_results.json,Baseline Validation Results,Validation F1-score,0.8149405772495756,C:\Users\Adi\project_safeconvo\safeconv_baseline_validation_results.json
+safeconv_baseline_validation_results.json,Baseline Validation Results,Validation accuracy,0.8338414634146342,C:\Users\Adi\project_safeconvo\safeconv_baseline_validation_results.json
+safeconv_baseline_validation_results.json,Baseline Validation Results,Validation loss,0.4362802108091007,C:\Users\Adi\project_safeconvo\safeconv_baseline_validation_results.json
+safeconv_baseline_validation_results.json,Baseline Validation Results,Validation precision,0.7817589576547231,C:\Users\Adi\project_safeconvo\safeconv_baseline_validation_results.json
+safeconv_baseline_validation_results.json,Baseline Validation Results,Validation recall,0.851063829787234,C:\Users\Adi\project_safeconvo\safeconv_baseline_validation_results.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,Accuracy,0.8536585365853658,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,Decision threshold,0.28,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,F1-score,0.8485804416403786,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,False negatives,13.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,False positives,83.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,Precision,0.7642045454545454,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,Recall,0.9539007092198581,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,True negatives,291.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_selected_threshold.json,Behavioral Detector Selected Threshold,True positives,269.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_selected_threshold.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,Accuracy,0.8201219512195121,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,Decision threshold,0.28,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,F1-score,0.8150470219435737,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,False negatives,22.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,False positives,96.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,Precision,0.7303370786516854,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,Recall,0.9219858156028369,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,True negatives,278.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_test_results.json,Behavioral Detector Test Results,True positives,260.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_test_results.json
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,Accuracy,0.850609756097561,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,Decision threshold,0.5,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,F1-score,0.8366666666666667,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,False negatives,31.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,False positives,67.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,Precision,0.789308176100629,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,Recall,0.8900709219858156,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,True negatives,307.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_behavioral_thresholds.csv,Behavioral Detector Thresholds,True positives,251.0,C:\Users\Adi\project_safeconvo\safeconv_behavioral_thresholds.csv
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,Accuracy,0.75,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,Decision threshold,0.29,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,F1-score,0.8452012383900929,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,False negatives,9.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,False positives,91.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,Precision,0.75,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,Recall,0.9680851063829787,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,True negatives,27.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_selected_threshold.json,Mentalmanip Dataset Selected Threshold,True positives,273.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_selected_threshold.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,Accuracy,0.7275,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,Decision threshold,0.29,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,F1-score,0.8283464566929134,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,False negatives,19.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,False positives,90.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,Precision,0.7450424929178471,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,Recall,0.9326241134751773,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,True negatives,28.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_test_results.json,Mentalmanip Dataset Test Results,True positives,263.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_test_results.json
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,Accuracy,0.725,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,Decision threshold,0.5,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,F1-score,0.8116438356164384,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,False negatives,45.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,False positives,65.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,Precision,0.7847682119205298,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,Recall,0.8404255319148937,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,True negatives,53.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_mentalmanip_thresholds.csv,Mentalmanip Dataset Thresholds,True positives,237.0,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_thresholds.csv
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,Accuracy,0.7325,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,Decision threshold,0.46,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,F1-score,0.8356374807987711,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,False negatives,10.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,False positives,97.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,Precision,0.7371273712737128,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,Recall,0.9645390070921985,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,True negatives,21.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_selected_threshold.json,Temporal Model Selected Threshold,True positives,272.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_selected_threshold.json
+safeconv_temporal_test_results.json,Temporal Model Test Results,Accuracy,0.715,C:\Users\Adi\project_safeconvo\safeconv_temporal_test_results.json
+safeconv_temporal_test_results.json,Temporal Model Test Results,Decision threshold,0.46,C:\Users\Adi\project_safeconvo\safeconv_temporal_test_results.json
+safeconv_temporal_test_results.json,Temporal Model Test Results,F1-score,0.8235294117647058,C:\Users\Adi\project_safeconvo\safeconv_temporal_test_results.json
+safeconv_temporal_test_results.json,Temporal Model Test Results,Precision,0.7307692307692307,C:\Users\Adi\project_safeconvo\safeconv_temporal_test_results.json
+safeconv_temporal_test_results.json,Temporal Model Test Results,Recall,0.9432624113475178,C:\Users\Adi\project_safeconvo\safeconv_temporal_test_results.json
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,Accuracy,0.73,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,Decision threshold,0.5,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,F1-score,0.8333333333333334,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,False negatives,12.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,False positives,96.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,Precision,0.7377049180327869,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,Recall,0.9574468085106383,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,True negatives,22.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+safeconv_temporal_thresholds.csv,Temporal Model Thresholds,True positives,270.0,C:\Users\Adi\project_safeconvo\safeconv_temporal_thresholds.csv
+test_results.json,Test Results,Accuracy,0.7025,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\test_results.json
+test_results.json,Test Results,Decision threshold,0.2,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\test_results.json
+test_results.json,Test Results,F1-score,0.807131280388979,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\test_results.json
+test_results.json,Test Results,Precision,0.7432835820895523,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\test_results.json
+test_results.json,Test Results,Recall,0.8829787234042553,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\test_results.json
+threshold_results.json,Threshold Results,Accuracy,0.7325,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\threshold_results.json
+threshold_results.json,Threshold Results,F1-score,0.8282504012841091,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\threshold_results.json
+threshold_results.json,Threshold Results,Precision,0.7565982404692082,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\threshold_results.json
+threshold_results.json,Threshold Results,Recall,0.9148936170212766,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\threshold_results.json
+training_history.json,Training History,Validation F1-score,0.81195079086116,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\training_history.json
+training_history.json,Training History,Validation accuracy,0.7325,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\training_history.json
+training_history.json,Training History,Validation loss,0.1741071969995859,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\training_history.json
+training_history.json,Training History,Validation precision,0.8048780487804879,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\training_history.json
+training_history.json,Training History,Validation recall,0.8191489361702128,C:\Users\Adi\project_safeconvo\safeconv_mentalmanip_baseline\training_history.json
+v2_2_test_results.json,V2 2 Test Results,Accuracy,1.0,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\v2_2_test_results.json
+v2_2_test_results.json,V2 2 Test Results,Decision threshold,0.49000000000000027,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\v2_2_test_results.json
+v2_2_test_results.json,V2 2 Test Results,F1-score,1.0,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\v2_2_test_results.json
+v2_2_test_results.json,V2 2 Test Results,Precision,1.0,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\v2_2_test_results.json
+v2_2_test_results.json,V2 2 Test Results,ROC-AUC,1.0,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\v2_2_test_results.json
+v2_2_test_results.json,V2 2 Test Results,Recall,1.0,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\v2_2_test_results.json
+validation_threshold.json,Validation Threshold,Accuracy,0.9620007754943777,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\validation_threshold.json
+validation_threshold.json,Validation Threshold,Decision threshold,0.49000000000000027,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\validation_threshold.json
+validation_threshold.json,Validation Threshold,F1-score,0.9615384615384616,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\validation_threshold.json
+validation_threshold.json,Validation Threshold,Precision,0.9408602150537635,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\validation_threshold.json
+validation_threshold.json,Validation Threshold,Recall,0.9831460674157303,C:\Users\Adi\project_safeconvo\safeconv_v2_2_distilbert\validation_threshold.json

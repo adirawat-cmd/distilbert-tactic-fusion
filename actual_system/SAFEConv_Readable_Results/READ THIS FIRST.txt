@@ -1,0 +1,10 @@
+SAFEConv RESULTS REPORT — START HERE
+
+1. Open 'SAFEConv Results Workbook.xlsx'.
+2. Start with the 'Results summary' sheet. Each row is one saved metric from one result file.
+3. 'All extracted results' contains the extracted details and source file.
+4. 'Result files found' lists files that looked like experiment outputs.
+5. PNG filenames describe what each graph shows.
+6. Metrics are included only if they could be read from existing saved files. This script does not rerun experiments.
+7. Different metrics may come from different datasets or validation/test splits. Do not compare them as if they were from the same test set unless the source files confirm that.
+8. Some terminal-only output may not have been saved to disk, so it cannot be recovered automatically.
