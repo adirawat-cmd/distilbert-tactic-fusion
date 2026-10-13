@@ -1,0 +1,175 @@
+{
+  "knowledge_base": "SAFEConv",
+  "version": "1.0",
+  "status": "curated_draft",
+  "entries": [
+    {
+      "id": "T001",
+      "tactic": "urgency_pressure",
+      "name": "Urgency Pressure",
+      "definition": "Using time pressure or demands for immediate action to reduce the opportunity for careful consideration or independent verification.",
+      "indicators": [
+        "Demands to act immediately",
+        "Short deadlines paired with requests for sensitive information or actions",
+        "Repeated insistence that there is no time to verify a request"
+      ],
+      "example": "Send me the verification code immediately. You have only five minutes.",
+      "interpretation": "Assess whether urgency is being used to push a consequential action, especially when paired with credential requests, threats, or discouragement of verification.",
+      "distinction": "A genuine time-sensitive situation may involve urgency without manipulation. Urgency alone is not proof of malicious intent.",
+      "recommended_actions": [
+        "Pause before taking the requested action",
+        "Verify consequential requests through an independent trusted channel",
+        "Avoid sharing passwords, one-time codes, or other sensitive credentials"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    },
+    {
+      "id": "T002",
+      "tactic": "fear_based_persuasion",
+      "name": "Fear-Based Persuasion",
+      "definition": "Using threats, alarming consequences, or fear-inducing claims to influence a person's decision or prompt compliance.",
+      "indicators": [
+        "Threats of account closure, financial loss, punishment, or other serious consequences",
+        "Repeated alarming claims intended to prompt a response",
+        "Warnings that discourage the person from delaying or verifying"
+      ],
+      "example": "If you do not provide the code now, your account will be frozen and you may lose your funds.",
+      "interpretation": "Look for fear-inducing consequences linked to a requested action, and whether the claim can be independently verified.",
+      "distinction": "Legitimate warnings can describe real risks. The presence of a warning alone does not establish coercion or deception.",
+      "recommended_actions": [
+        "Do not act solely because of a threatening message",
+        "Check the claim with the relevant organization using independently obtained contact details",
+        "Keep a record of suspicious communications"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    },
+    {
+      "id": "T003",
+      "tactic": "impersonation",
+      "name": "Impersonation",
+      "definition": "Claiming or implying an identity, role, or affiliation that is not genuine in order to gain trust or influence another person's actions.",
+      "indicators": [
+        "Claims to represent a bank, government agency, employer, platform, or trusted individual",
+        "Requests for sensitive information based on an asserted role",
+        "Identity claims that cannot be independently verified"
+      ],
+      "example": "I am calling from your bank's security department. I need to verify your account.",
+      "interpretation": "Identify the claimed identity and any consequential requests made under that identity. The transcript alone may not establish whether the claim is false.",
+      "distinction": "A person legitimately representing an organization is not impersonating it. Verification is needed before treating an identity claim as deceptive.",
+      "recommended_actions": [
+        "Verify the person's role through the organization's official channels",
+        "Do not disclose credentials or one-time codes to an unverified contact",
+        "Avoid using contact details supplied only in the suspicious message"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    },
+    {
+      "id": "T004",
+      "tactic": "emotional_manipulation",
+      "name": "Emotional Manipulation",
+      "definition": "Using emotional appeals, such as guilt, affection, shame, or sympathy, to influence a person's decisions in a way that may undermine their ability to choose freely.",
+      "indicators": [
+        "Guilt-inducing statements tied to compliance",
+        "Affection or approval made conditional on taking an action",
+        "Repeated emotional appeals used to override expressed hesitation"
+      ],
+      "example": "If you really cared about me, you would send the money without asking questions.",
+      "interpretation": "Consider whether an emotional appeal is being used to pressure a specific decision, particularly after the person expresses doubt or sets a boundary.",
+      "distinction": "Expressing genuine emotions, asking for support, or discussing relationship concerns is not automatically manipulative.",
+      "recommended_actions": [
+        "Take time to consider the request independently",
+        "Seek perspective from a trusted person when feeling pressured",
+        "Maintain personal boundaries and avoid rushed financial or sensitive decisions"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    },
+    {
+      "id": "T005",
+      "tactic": "financial_extraction",
+      "name": "Financial Extraction",
+      "definition": "Attempting to obtain money, payment credentials, financial account information, or other financially valuable information through a conversation.",
+      "indicators": [
+        "Requests for money, transfers, gift cards, or cryptocurrency",
+        "Requests for account numbers, payment details, or banking credentials",
+        "Requests to provide one-time codes or approve transactions"
+      ],
+      "example": "Please send the payment to this account now so we can prevent your service from being suspended.",
+      "interpretation": "Identify what financial asset or information is being requested, who is requesting it, and what justification is provided.",
+      "distinction": "Legitimate payments and financial administration also involve requests for money or account details. Context and independent verification matter.",
+      "recommended_actions": [
+        "Verify payment instructions through a trusted, independent channel",
+        "Do not share passwords, PINs, or one-time verification codes",
+        "Contact the financial institution promptly if sensitive information has already been disclosed"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    },
+    {
+      "id": "T006",
+      "tactic": "trust_engineering",
+      "name": "Trust Engineering",
+      "definition": "Building or leveraging perceived trust, familiarity, authority, or shared interests to make a person more willing to accept a request.",
+      "indicators": [
+        "Repeated attempts to establish credibility or special familiarity",
+        "Claims of shared connections, insider knowledge, or privileged access",
+        "Use of established rapport to support a consequential request"
+      ],
+      "example": "You know you can trust me. We have worked together for years, so just approve this request.",
+      "interpretation": "Assess whether trust-building language is being used to support a request that would otherwise warrant scrutiny.",
+      "distinction": "Building genuine rapport and demonstrating credibility are normal parts of communication. Trust-building language alone does not prove manipulation.",
+      "recommended_actions": [
+        "Evaluate the request separately from the relationship",
+        "Verify unusual or high-impact requests independently",
+        "Be cautious when familiarity is used as a substitute for verification"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    },
+    {
+      "id": "T007",
+      "tactic": "social_isolation",
+      "name": "Social Isolation",
+      "definition": "Discouraging or preventing a person from seeking outside advice, verification, or support in connection with a consequential request.",
+      "indicators": [
+        "Instructions not to tell friends, family, colleagues, or relevant authorities",
+        "Claims that the person must handle the matter alone",
+        "Discouraging independent contact with an organization or trusted adviser"
+      ],
+      "example": "Do not contact the bank or tell anyone about this investigation. You must follow my instructions only.",
+      "interpretation": "Look for attempts to restrict access to independent advice or verification, especially when sensitive information or money is involved.",
+      "distinction": "Requests for ordinary confidentiality can be legitimate. The concern increases when secrecy is used to prevent reasonable verification or support.",
+      "recommended_actions": [
+        "Seek independent advice when a request feels suspicious",
+        "Contact the relevant organization using official contact details",
+        "Do not let a demand for secrecy prevent appropriate safety checks"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    },
+    {
+      "id": "T008",
+      "tactic": "coercion",
+      "name": "Coercion",
+      "definition": "Using threats, intimidation, forceful demands, or the threatened imposition of consequences to compel a person to act against their wishes.",
+      "indicators": [
+        "Threats linked directly to compliance or refusal",
+        "Repeated forceful demands despite expressed hesitation",
+        "Statements that remove or undermine the person's ability to decline freely"
+      ],
+      "example": "Send me the code now, or I will make sure you lose access to your account.",
+      "interpretation": "Look for a clear connection between a demand and a threatened consequence. Consider the surrounding turns and the person's response.",
+      "distinction": "A firm request, legitimate policy consequence, or ordinary disagreement is not automatically coercion. The context and nature of the pressure matter.",
+      "recommended_actions": [
+        "Avoid complying with threats without independent verification",
+        "Disengage if the interaction feels unsafe",
+        "Seek help from the relevant organization or appropriate support service when needed"
+      ],
+      "source": "SAFEConv curated draft",
+      "source_type": "internally_authored"
+    }
+  ]
+}
